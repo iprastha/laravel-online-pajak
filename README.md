@@ -19,6 +19,11 @@ ONLINEPAJAK_API_KEY=YOURAPIKEY
 ```
 4. For testing purpose, ensure your environment **IS NOT SET to "production"**
 
+## Todo
+- [ ] Implement batch sales invoice
+- [ ] Implement cancellation for void invoice (delete)
+- [ ] Tax Invoice should be automatically approved upon creation
+
 # Resources
 - [Online Pajak Developer Portal](https://developer.online-pajak.com/)
 - [Online Pajak API Documentation](https://developer.online-pajak.com/docs/api-documentation/c53add3c8b16f-getting-started)
